@@ -2,19 +2,25 @@
 
 ## Coursework, Projects, Notes Archive
 
-The purpose of this archive is to both: demonstrate my skills and competencies; and provide an additional study resource to students and others learning the topics covered. Most of the information in the notes is a result of independent study and outside resources. 
+### **The purpose of this archive is to:**
 
-**Directories will typically follow the format:**
+1. house and deploy projects and code for instructor evaluation;
+2. further demonstrate my skills and competencies;
+3. and provide an additional study resource to students and others learning the topics covered.
 
-* README.md: overview of the course
-* notes-and-study-resources.md: the notes I took and resources I used to learn the material
-* /project-folder
-  - README.md: project documentation (description, usage, scenario, requirements, doc structure, etc...)
-  - project files: documents or directories for course project
-- /practice-exercises
-  - README.md: list of exercises and practice skills covered 
+During my studies at WGU I found that I often needed alternative resources to support my learning process. Most of the information in my notes is a result of independent study and outside resources. 
 
-**Note:** Classes that have nothing to do with IT have been left out
+### **Directories will typically follow the format:**
+
+* ```README.md:``` overview of the course
+* ```notes-and-study-resources.md:``` the notes I took and resources I used to learn the material
+* ```/project-folder```
+  - ```README.md:``` project documentation (description, usage, scenario, requirements, doc structure, etc...)
+  - ```project files:``` documents or directories for course project
+- ```/practice-exercises```
+  - ```README.md:``` list of exercises and practice skills covered 
+
+### **The courses covered in this archive are as follows:**
 
 * ***(D278)*** - Scripting and Programming - Foundations
 * ***(D335)*** - Introduction to Programming in Python
@@ -50,3 +56,5 @@ The purpose of this archive is to both: demonstrate my skills and competencies; 
 * ***(D284)*** - Software Engineering 
 * ***(D308)*** - Mobile Application Development (Android) 
 * ***(D424)*** - Software Engineering Capstone
+
+**Note:** Classes that have nothing to do with IT have been left out
