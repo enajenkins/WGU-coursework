@@ -4,7 +4,7 @@
 
 The purpose of this archive is to both: demonstrate my skills and competencies; and provide an additional study resource to students and others learning the topics covered. Most of the information in the notes is a result of independent study and outside resources. 
 
-Directories will typically follow the format:
+**Directories will typically follow the format:**
 
 * README.md: overview of the course
 * notes-and-study-resources.md: the notes I took and resources I used to learn the material
